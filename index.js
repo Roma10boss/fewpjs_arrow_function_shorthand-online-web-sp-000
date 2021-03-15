@@ -1,1 +1,1 @@
-let divide = x => x/2;
+let divide = 2000 => 2000/100;
